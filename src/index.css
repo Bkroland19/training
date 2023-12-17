@@ -1,0 +1,21 @@
+.btn {
+    background-color: blue;
+    border-radius: 20px;
+    width: 15rem;
+    color: "#fff";
+    padding: 6px;
+}
+
+.custom-input {
+    width: 30%;
+    padding: 7px;
+    border: 2px 4px;
+    border-radius: 10;
+    margin: 0.2rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
